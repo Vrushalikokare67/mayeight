@@ -1,0 +1,35 @@
+
+
+
+.login-box{
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+
+/* img {
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  } */
+  /* .floatRightClear{float:right;clear:right;margin-left:20px} */
+  .floatRight{
+    float:right;margin-left:20px;
+    border-radius: 30%;
+    padding: 80px;
+    width: 700px;
+  }
+
+  .floatSmall{
+    
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+  }
+
+ .label-input{
+  width: 187px;
+  height: 35px;
+ }
